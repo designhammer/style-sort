@@ -2,7 +2,7 @@
 	"name": "style-sort",
 	"displayName": "StyleSort",
 	"description": "Sorts selected styles.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "designhammer",
 	"license": "MIT",
 	"repository": "github:DesignHammer/style-sort",
