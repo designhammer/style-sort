@@ -4,6 +4,7 @@
 	"description": "Sorts selected styles.",
 	"version": "0.0.1",
 	"publisher": "designhammer",
+	"repository": "github:DesignHammer/style-sort",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
