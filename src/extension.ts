@@ -20,12 +20,6 @@ export function activate(context: vscode.ExtensionContext) {
 
 			editor.edit(edit => {
 				edit.replace(editor.selection, sortedText)
-			}).then(success => {
-				if (success) {
-					vscode.window.showInformationMessage(sortedText)
-				} else {
-					vscode.window.showInformationMessage('fail')
-				}
 			})
 		}
 	});
